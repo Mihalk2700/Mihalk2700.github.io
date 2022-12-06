@@ -11,7 +11,7 @@
     border: 100px solid #006089 !important;
     border-radius: 100px !important;
     font-size: 27px !important;
-    padding: 100px 50px !important; 
+    padding: 0px 0px !important; 
     transition: all 0.8s ease !important;
 }
 .button_1670292107412:hover{
@@ -22,5 +22,5 @@
 }
 </style>
 <a href="https://github.com/Mihalk2700" class="button_1670292107412" target="_blank">
-  Вау Цэ кнопка!
+  
 </a>
