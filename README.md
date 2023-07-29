@@ -1,6 +1,5 @@
 # Disclaimer
 Возможно ты пытался запустить бота из ЛС и попал на этот сайт, всё норм в текстовое сообщение начни вводить "/" и получишь обысный список команд
-[![Typing SVG](https://mihalk2700.github.io?pause=100&color=3B486E&width=435&lines=Learn+IT+..................................>)](https://git.io/typing-svg)
 <style>
 .button_1670292107412 {
     display: inline-block !important;
